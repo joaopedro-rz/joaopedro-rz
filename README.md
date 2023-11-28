@@ -2,7 +2,7 @@
 
 * ### 📚I'm a Brazilian graduating student in Software Engineering at UTFPR
 * ### 🖥️A technology and programming enthusiast
-* ### 📧Reach me at : zugaib.contato@hotmail.com
+* ### 📧Reach me at : zugaib.contato@hotmail.com Or zugaib.contato@gmail.com
 
 * ### 📲Connect with me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrorzugaib/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaopedro.rz)
 
